@@ -1,0 +1,5318 @@
+{
+  "game_1": {
+    "executed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b5",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "d7",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d8",
+        "front_target": 3,
+        "front_square": "a4",
+        "back_target": 1,
+        "back_square": "c2",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "a4",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "d7",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "a4",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "d7",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b3",
+        "pinning_piece": 3,
+        "pinning_square": "f6",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      }
+    ],
+    "missed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b3",
+        "front_target": 3,
+        "front_square": "e6",
+        "back_target": 1,
+        "back_square": "f7",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 4,
+        "attacking_square": "a8",
+        "front_target": 2,
+        "front_square": "a4",
+        "back_target": 1,
+        "back_square": "a2",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 4,
+        "pinned_square": "e1",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "e7",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      }
+    ],
+    "allowed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b5",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "d7",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d8",
+        "front_target": 3,
+        "front_square": "a4",
+        "back_target": 1,
+        "back_square": "c2",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "a4",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "d7",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "a4",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b3",
+        "front_target": 3,
+        "front_square": "e6",
+        "back_target": 1,
+        "back_square": "f7",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "h4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b7",
+        "pinning_piece": 3,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 3,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 4,
+        "pinned_square": "e1",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "f6",
+        "pinning_piece": 3,
+        "pinning_square": "e7",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 3,
+        "pinning_square": "b3",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b3",
+        "pinning_piece": 3,
+        "pinning_square": "f6",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h3",
+        "pinning_piece": 5,
+        "pinning_square": "c7",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e4",
+        "pinning_piece": 3,
+        "pinning_square": "b7",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      }
+    ]
+  },
+  "game_2": {
+    "executed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a4",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d8",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "a4",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e4",
+        "front_target": 3,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "b7",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e4",
+        "front_target": 3,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "b7",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b7",
+        "pinning_piece": 5,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b2",
+        "front_target": 6,
+        "front_square": "g1",
+        "back_target": 4,
+        "back_square": "d1",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 17,
+        "color": "black"
+      }
+    ],
+    "missed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a4",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e2",
+        "front_target": 2,
+        "front_square": "e4",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a4",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "d5",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e5",
+        "pinning_piece": 5,
+        "pinning_square": "c7",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f3",
+        "pinning_piece": 3,
+        "pinning_square": "e4",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 5,
+        "front_square": "d4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f3",
+        "pinning_piece": 3,
+        "pinning_square": "e4",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "d4",
+        "pinning_piece": 5,
+        "pinning_square": "b6",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b2",
+        "front_target": 6,
+        "front_square": "g1",
+        "back_target": 5,
+        "back_square": "e1",
+        "move_number": 17,
+        "color": "white"
+      }
+    ],
+    "allowed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "f5",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a4",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "e2",
+        "front_target": 2,
+        "front_square": "e4",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a4",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "d5",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "g6",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e5",
+        "pinning_piece": 5,
+        "pinning_square": "c7",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f3",
+        "pinning_piece": 3,
+        "pinning_square": "e4",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 3,
+        "front_square": "g5",
+        "back_target": 1,
+        "back_square": "e5",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b6",
+        "front_target": 5,
+        "front_square": "d4",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f3",
+        "pinning_piece": 3,
+        "pinning_square": "e4",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "d4",
+        "pinning_piece": 5,
+        "pinning_square": "b6",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "c4",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d5",
+        "pinning_piece": 3,
+        "pinning_square": "c4",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b2",
+        "front_target": 5,
+        "front_square": "e2",
+        "back_target": 1,
+        "back_square": "f2",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b2",
+        "front_target": 6,
+        "front_square": "g1",
+        "back_target": 4,
+        "back_square": "d1",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "e6",
+        "pinning_piece": 3,
+        "pinning_square": "d5",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b7",
+        "pinning_piece": 5,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "b2",
+        "front_target": 6,
+        "front_square": "g1",
+        "back_target": 4,
+        "back_square": "d1",
+        "move_number": 17,
+        "color": "black"
+      }
+    ]
+  },
+  "game_3": {
+    "executed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "b7",
+        "front_target": 2,
+        "front_square": "d5",
+        "back_target": 1,
+        "back_square": "e4",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 4,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 19,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "e3",
+        "front_target": 2,
+        "front_square": "c5",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 19,
+        "color": "black"
+      }
+    ],
+    "missed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 4,
+        "attacking_square": "c8",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "c2",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "d6",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 16,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d7",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 17,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d7",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 18,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c5",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "h5",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 20,
+        "color": "white"
+      }
+    ],
+    "allowed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 4,
+        "attacking_square": "c8",
+        "front_target": 2,
+        "front_square": "c6",
+        "back_target": 1,
+        "back_square": "c2",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "d6",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f7",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 15,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d7",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 16,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d7",
+        "pinning_piece": 3,
+        "pinning_square": "b5",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 17,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 18,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c5",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "h5",
+        "pinning_piece": 5,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 19,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "h7",
+        "pinning_piece": 3,
+        "pinning_square": "e3",
+        "target": "king",
+        "move_number": 20,
+        "color": "black"
+      }
+    ]
+  },
+  "game_4": {
+    "executed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "g7",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "d3",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "d3",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "g7",
+        "move_number": 8,
+        "color": "black"
+      }
+    ],
+    "missed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "f5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "a5",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c3",
+        "pinning_piece": 5,
+        "pinning_square": "a5",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "d3",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "g7",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 5,
+        "front_square": "a5",
+        "back_target": 1,
+        "back_square": "c5",
+        "move_number": 8,
+        "color": "black"
+      }
+    ],
+    "allowed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "c3",
+        "pinning_piece": 3,
+        "pinning_square": "b4",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g2",
+        "pinning_piece": 5,
+        "pinning_square": "d8",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "f5",
+        "back_target": 1,
+        "back_square": "e6",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c2",
+        "pinning_piece": 5,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f2",
+        "pinning_piece": 5,
+        "pinning_square": "h4",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 3,
+        "attacking_square": "d3",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "h7",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 2,
+        "front_square": "g6",
+        "back_target": 1,
+        "back_square": "g7",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "g4",
+        "front_target": 5,
+        "front_square": "h4",
+        "back_target": 1,
+        "back_square": "c5",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "g4",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "d3",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      }
+    ]
+  },
+  "game_5": {
+    "executed": [
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 2,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "f8",
+        "target": "king",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 2,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 5,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 6,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 8,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 3,
+        "pinning_square": "e2",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 9,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 3,
+        "pinning_square": "e2",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 10,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      }
+    ],
+    "missed": [
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "g7",
+        "pinning_piece": 3,
+        "pinning_square": "f1",
+        "target": "king",
+        "move_number": 1,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "f8",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 3,
+        "pinning_square": "e2",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 7,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 3,
+        "pinning_square": "e2",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 14,
+        "color": "black"
+      }
+    ],
+    "allowed": [
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 1,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "f8",
+        "target": "king",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 3,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 3,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 4,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "f6",
+        "pinning_piece": 5,
+        "pinning_square": "d1",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "a7",
+        "pinning_piece": 3,
+        "pinning_square": "e2",
+        "target": "king",
+        "move_number": 4,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "skewer",
+        "attacking_piece": 5,
+        "attacking_square": "d1",
+        "front_target": 2,
+        "front_square": "f6",
+        "back_target": 1,
+        "back_square": "e7",
+        "move_number": 5,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 6,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 7,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 8,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 9,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 10,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 11,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 11,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "c4",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 12,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 12,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 13,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 1,
+        "pinned_square": "f4",
+        "pinning_piece": 3,
+        "pinning_square": "c1",
+        "target": "king",
+        "move_number": 13,
+        "color": "black"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 3,
+        "pinned_square": "b2",
+        "pinning_piece": 3,
+        "pinning_square": "c8",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 14,
+        "color": "white"
+      },
+      {
+        "type": "pin",
+        "pinned_piece": 2,
+        "pinned_square": "d3",
+        "pinning_piece": 3,
+        "pinning_square": "g7",
+        "target": "king",
+        "move_number": 15,
+        "color": "white"
+      }
+    ]
+  }
+}

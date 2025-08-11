@@ -1,0 +1,106 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.08"]
+[Round "?"]
+[White "Faygo_butcher"]
+[Black "T-rex95"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "669"]
+[BlackElo "630"]
+[Termination "Faygo_butcher won by checkmate"]
+[ECO "C57"]
+[EndTime "6:14:28 GMT+0000"]
+[Link "https://www.chess.com/game/live/141621974964"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Kg1 Qf6
+8. Qe2 Qf5 9. Nxh8 Nd4 10. Bf7+ Kd8 11. Qe3 Nxc2 12. Qe2 b6 13. Bd5 Nd6 14. Bxa8
+Nxa1 15. Bd5 Qxb1 16. Nf7+ Nxf7 17. Bxf7 Qxc1+ 18. Kf2 Qxh1 19. Qxe5 g6 20. Qe8#
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.11"]
+[Round "?"]
+[White "Faygo_butcher"]
+[Black "abolfazljamshidian"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "680"]
+[BlackElo "672"]
+[Termination "Faygo_butcher won by resignation"]
+[ECO "B10"]
+[EndTime "12:48:39 GMT+0000"]
+[Link "https://www.chess.com/game/live/141750688326"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. O-O Bg4 6. h3 Bh5 7. d3 e6 8. Qe1
+Nf6 9. Ne5 a6 10. Bxc6+ bxc6 11. Nxc6 Qd6 12. Ne5 Be7 13. Bg5 O-O 14. Bxf6 Bxf6
+15. d4 Qb6 16. Nd7 Qb3 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.11"]
+[Round "?"]
+[White "PaulCJM"]
+[Black "Faygo_butcher"]
+[Result "1/2-1/2"]
+[TimeControl "600"]
+[WhiteElo "696"]
+[BlackElo "687"]
+[Termination "Game drawn by timeout vs insufficient material"]
+[ECO "A40"]
+[EndTime "5:36:14 GMT+0000"]
+[Link "https://www.chess.com/game/live/141738687240?move=0"]
+
+1. d4 g6 2. Bf4 Bg7 3. Be5 Nf6 4. Nf3 d6 5. Bg3 Ne4 6. Bh4 O-O 7. e3 Bg4 8. Be2
+Bxf3 9. Bxf3 Nf6 10. O-O Nc6 11. Nc3 Nb4 12. a3 Nc6 13. Qd2 e6 14. Bg5 d5 15. e4
+dxe4 16. Bxe4 Nxe4 17. Nxe4 Qd5 18. f3 Nxd4 19. Bh6 Qe5 20. Bxg7 Qxg7 21. Ng5
+Rad8 22. Qb4 Ne2+ 23. Kf2 Qd4+ 24. Qxd4 Nxd4 25. h4 Nxc2 26. Rac1 Rd2+ 27. Kg3
+Ne3 28. Rh1 Rxb2 29. Rxc7 Nf5+ 30. Kf4 Rxg2 31. Nxf7 Nd4 32. Ke5 Nxf3+ 33. Kxe6
+Nd4+ 34. Ke7 Rxf7+ 35. Kd8 Rxc7 36. Kxc7 Rb2 37. Re1 Nb5+ 38. Kxb7 a5 39. Re8+
+Kg7 40. Kc6 Nxa3 41. Re7+ Kh6 42. Kd5 Kh5 43. Re4 Nc2 44. Ke5 Rb5+ 45. Kf4 Kxh4
+46. Kf3+ Kh5 47. Kg3 Rb3+ 48. Kh2 Rb8 49. Re5+ Kh6 50. Rxa5 Rb2 51. Kh3 Rb3+ 52.
+Kh4 Ne3 53. Kg3 Nc4+ 54. Kf4 Nxa5 55. Ke5 Re3+ 56. Kd4 Rh3 57. Kd5 g5 58. Ke4 g4
+59. Kf4 Kh5 60. Ke4 g3 61. Kf4 g2 62. Ke4 g1=Q 63. Kd5 Rd3+ 64. Ke4 Qe3+ 65. Kf5
+Qf3+ 66. Ke5 Qe3+ 67. Kf5 Qd4 68. Ke6 Re3+ 69. Kf5 Qf4+ 70. Kxf4 Rh3 71. Ke4 Kg4
+72. Kd5 Kf5 73. Kd4 Kf4 74. Kd5 Rd3+ 75. Ke6 Ke4 76. Kf6 Rd5 77. Ke6 Re5+ 78.
+Kd6 Rd5+ 79. Ke6 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.09"]
+[Round "?"]
+[White "Faygo_butcher"]
+[Black "ranggilo"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "687"]
+[BlackElo "708"]
+[Termination "ranggilo won by resignation"]
+[ECO "C40"]
+[EndTime "13:52:14 GMT+0000"]
+[Link "https://www.chess.com/game/live/141675293126"]
+
+1. e4 e5 2. Nf3 d5 3. Be2 dxe4 4. Nxe5 f6 5. Nc4 Nh6 6. O-O g6 7. Ne3 f5 8. d3
+Nc6 9. dxe4 Qd2 0-1
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.08.09"]
+[Round "?"]
+[White "Faygo_butcher"]
+[Black "aashnamit123"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "687"]
+[BlackElo "682"]
+[Termination "Faygo_butcher won by resignation"]
+[ECO "C50"]
+[EndTime "13:36:06 GMT+0000"]
+[Link "https://www.chess.com/game/live/141674661066"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Ng5 d5 6. exd5 Na5 7. Bb5+ c6 8.
+dxc6 bxc6 9. Ba4 Ng4 10. Ne4 Bxf2+ 11. Nxf2 Nxf2 12. Kxf2 Qd4+ 13. Be3 Qxa4 14.
+Nc3 Qb4 15. a3 Qxb2 16. Ne4 Qb7 17. Nd6+ 1-0
